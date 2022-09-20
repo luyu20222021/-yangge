@@ -16,7 +16,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 {{date.DATA}} 
 
-喜欢胜过所有道理，原则抵不过我乐意
+今天也要加油！
 
 地区：{{region.DATA}} 
 
